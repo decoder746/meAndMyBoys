@@ -15,3 +15,4 @@ Our e-voting project follows the following rules
 * **Voters** They cast their votes by going at their respective constituencies. They are given the wallet pin and ID by their respective local people.
 * **District nodes**
 #### Process
+sss
