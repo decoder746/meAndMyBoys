@@ -8,7 +8,6 @@ Our e-voting project follows the following rules
 1. The proposals of the candidates remain the same throughout the election.
 1. The election results are displayed just after the end of elections.
 
-*We will not implement the process of including new people who have just turned 18 or check if all the eligibl voters are there in the list(example idea 2 and 3 at the codefundoo website)*
 ### Implementation
 #### People
 * **Admin** Is responsible for the creating of elections, starting of elections and the ending of elections. Also he/she enrolls the name of people in the voter lists and also the announcing of the result.
