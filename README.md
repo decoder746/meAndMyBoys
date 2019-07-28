@@ -27,4 +27,4 @@ Our e-voting project follows the following rules
 ### Scope of improvement
 1. A single ballet contract is a single point of failure. If this breaks in the middle of the voting process, then there goes the election(that constituency).
 1. Different types of elections can be conducted like open elections or private elections from the same app (*like Netvote*).
-1. There is some type of centralization in this process (the admin). We want to have completely decentralized elections.
+1. There is some type of centralization in this process (the admin). We would want to have completely decentralized elections.
