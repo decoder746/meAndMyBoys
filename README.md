@@ -1,4 +1,4 @@
-# meAndMyBoys
+# E-Voting using Blockchain
 Microsoft codefundoo 2019
 ### Basic idea
 Our e-voting project follows the following rules 
